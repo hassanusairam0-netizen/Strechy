@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://strechy.vercel.app/sitemap.xml
+Sitemap: https://strechy-chi.vercel.app/sitemap.xml
